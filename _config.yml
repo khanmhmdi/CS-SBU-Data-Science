@@ -1,0 +1,52 @@
+# Site settings
+course_name: Data Science
+course_description: "This course is an introduction to data science. It is an overview of the latest primary knowledge and skills in the data science criteria, focusing on the basics of linear algebra, probability and statistics, first steps of working with data, data wrangling, exploratory data analysis, visualization techniques, and the essentials of supervised learning, time series analysis, and unsupervised methods. There are no particular prerequisites, and we tried to cover everything to our potential."
+course_semester: "Fall 2023"
+
+baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
+url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Shahid Beheshty University"
+schoolurl: "https://cs.sbu.ac.ir"
+twitter_username: cs.sbu 
+
+address: |
+    Shahid Beheshti University
+    CS Deptatment
+    Data Science Course
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
