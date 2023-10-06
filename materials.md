@@ -20,4 +20,4 @@ permalink: /materials/
 * [Tutorial #1](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) Deep learning with JAX+FLAX
 
 ## Some useful videos
-* [How load data from kaggle compterions to the colab](https://www.youtube.com/watch?v=57N1g8k2Hwc)
+* [How to load data from kaggle comptetions to the colab](https://www.youtube.com/watch?v=57N1g8k2Hwc)
