@@ -2,7 +2,7 @@ instructors:
   - name: Dr.Saeed Reza Kheradpisheh
     profile_pic: /_images/pp/Kheradpisheh.png 
   
-teaching_assistants:
+teaching_assistant:
   - name: Mohamadreza Khanmohamadi
     profile_pic: /_images/pp/khnmhmdi.png
-    webpage: https://github.com/khnmhmdi
+    webpage: https://github.com/khanmhmdi
