@@ -9,8 +9,8 @@ permalink: /materials/
 ## Book
 
 * [Source 1](https://hastie.su.domains/CASI_files/PDF/casi.pdf): Computer age statistical inference
-* [Source 2](inferencehttps://greenteapress.com/thinkstats/thinkstats.pdf): Think stats
-* [Source 3](data.vk.edu.ee/Andmetootlus/Kontsepstsioon/Cole-Nussbaumer-Knaflic_Storytelling-with-Data_Practice.pdf): Storytelling with data
+* [Source 2](https://greenteapress.com/thinkstats/thinkstats.pdf): Think stats
+* [Source 3](https://data.vk.edu.ee/Andmetootlus/Kontsepstsioon/Cole-Nussbaumer-Knaflic_Storytelling-with-Data_Practice.pdf): Storytelling with data
 * Source 4 : Pattern recognition Bishop
 
 ## Additional Course Materials
