@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2023-11-08T04:00:00+00:00
+date: 2023-12-09T04:00:00+00:00
 title: 'Assignment 4 -Model Selection'
 pdf: /static_files/assigments/4th_Assigment.pdf
 due_event:
